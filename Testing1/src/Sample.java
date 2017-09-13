@@ -5,7 +5,9 @@ public class Sample {
 		// TODO Auto-generated method stub
 System.out.println("Helo");
 int c=10;
-System.out.println("value of C is >>>>"+c);
+int d=20;
+System.out.println("value of  is >>>>"+c);
+System.out.println("value of  is >>>>"+d);
 	}
 
 }
